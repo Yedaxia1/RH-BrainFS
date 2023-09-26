@@ -1,0 +1,13 @@
+
+{
+	"dropout": 0.3,
+	"h": 1,
+	"hidden_dim": 256,
+	"lr": 0.0005,
+	"num_bottlenecks": 4,
+	"num_layers": 2,
+	"num_heads": 4,
+    "epochs": 500,
+    "patience": 300,
+	"dataset": "ZDXX"
+}

@@ -1,0 +1,18 @@
+{
+    "ZDXX": {
+        "path": "anonymous",
+	    "result_path": "./result/ZDXX.txt"
+    },
+    "ZD": {
+        "path": "anonymous",
+	    "result_path": "./result/ZD.txt"
+    },
+    "XX": {
+        "path": "anonymous",
+	    "result_path": "./result/XX.txt"
+    },
+    "HCP": {
+        "path": "anonymous",
+	    "result_path": "./result/HCP.txt"
+    }
+}
